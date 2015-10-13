@@ -1,0 +1,10 @@
+c:\users\dylan\documents\visual studio 2013\Projects\GSharp\GSharp\bin\Debug\GSharp.exe.config
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\GSharp\GSharp\bin\Debug\data.ds
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\GSharp\GSharp\bin\Debug\GSharp.exe
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\GSharp\GSharp\bin\Debug\GSharp.pdb
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\GSharp\GSharp\obj\Debug\GSharp.csprojResolveAssemblyReference.cache
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\GSharp\GSharp\obj\Debug\GSharp.exe
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\GSharp\GSharp\obj\Debug\GSharp.pdb
+C:\Users\Dylan\Desktop\German-Basic\Source Code + Binaries\GSharp\bin\Debug\GSharp.exe.config
+C:\Users\Dylan\Desktop\German-Basic\Source Code + Binaries\GSharp\obj\Debug\GSharp.exe
+C:\Users\Dylan\Desktop\German-Basic\Source Code + Binaries\GSharp\obj\Debug\GSharp.pdb
